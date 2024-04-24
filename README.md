@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository was forked to add unit tests (using Jest).
+
 # Hello Canada....
 
 Hello Canada, is a simple demo app that showcases the provinces and territories of Canada. It was built using Create React App, a popular tool for bootstrapping React applications.
